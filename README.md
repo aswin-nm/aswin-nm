@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋 I'm Aswin
 
-<!--
-**aswin-nm/aswin-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Linux System Administrator (RHCSA Learner)  
+☁️ Cloud & Server Enthusiast  
+🐍 Python & Shell Scripting Learner  
+🌐 Django Backend Developer (Beginner)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about Linux systems, servers, and networking
+- Learning real-world system administration skills
+- Exploring cloud technologies (AWS / Azure)
+- Building backend applications using Django
+- Interested in automation and infrastructure management
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🐧 Linux & System Administration
+- User & Group Management
+- Process Management (ps, top, nice, kill)
+- Disk & Storage Management (LVM, partitions)
+- SSH, Networking basics
+- System monitoring & troubleshooting
+
+### 🐍 Programming & Automation
+- Python
+- Shell Scripting (Bash)
+- Task automation
+
+### 🌐 Web Development
+- Django
+- REST APIs
+- SQLite / PostgreSQL basics
+
+### ☁️ Cloud & Virtualization (Learning)
+- AWS fundamentals
+- Azure basics
+- VMware / Virtual machines
+
+---
+
+## 📂 My Projects
+
+🔹 Linux Administration Labs  
+Practice commands, configuration, and RHCSA-style tasks  
+
+🔹 Django Ecommerce Project  
+Backend development using Django  
+
+🔹 User & Group Management Project  
+Linux system administration practice  
+
+More projects coming soon...
+
+---
+
+## 🎯 Currently Learning
+- Advanced Linux Administration
+- RHCSA / RHCE preparation
+- Cloud deployment
+- Python automation for system admins
+- Monitoring & security basics
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/aswinnm
+- GitHub: https://github.com/aswin-nm
+- Email: aswinnm.info@gmail.com
+
+---
+
+⭐ Always learning. Always building. Always improving.
