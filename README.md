@@ -4,7 +4,9 @@
 ☁️ Cloud & Server Enthusiast  
 🐍 Python & Shell Scripting Learner  
 🌐 Django Backend Developer (Beginner)  
-
+## 🌐 Live Website
+[Visit EKART](https://ekart-fok7.onrender.com)
+Django ecommerce project deployed on Render.
 ---
 
 ## 🚀 About Me
